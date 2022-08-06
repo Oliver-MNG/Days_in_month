@@ -1,5 +1,5 @@
 def is_leap(year):
-    """Finds out if the year is a leap year or not"""
+    """Finds out if the year is a leap year or not"""   #Yep, here I am adding documentationt to my function
     if year % 4 == 0:
         if year % 100 == 0:
             if year % 400 == 0:
